@@ -1,6 +1,5 @@
 
 <h1>MohammadAli Karimi</h1> 
-<br>
 <h2>Front-End Developer</h2>
 
 <p align="center">

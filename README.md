@@ -1,7 +1,7 @@
 
-<h2>MohammadAli Karimi</h2> 
+<h1>MohammadAli Karimi</h1> 
 <br>
-<h3>Front-End Developer</h3>
+<h2>Front-End Developer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/makarimi76/">

@@ -9,27 +9,29 @@
   </a>
 </p>
 
-<h3 align="center">
-Languages and Tools
-</h3>
+---
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://javascript.info/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="30" height="30" style="max-width:100%;margin-right: 15px">
   </a>
   
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/html/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" style="max-width:100%;margin-right: 15px">
   </a>
   
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/css/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="max-width:100%;margin-right: 15px">
   </a>
   
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="30" height="30" style="max-width:100%;margin-right: 15px">
   </a>
-    
+   
+  <a target="_blank" rel="noopener noreferrer" href="https://redux.js.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" style="max-width:100%;margin-right: 15px">
+  </a>
+  
   <a target="_blank" rel="noopener noreferrer" href="https://nextjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="30" height="30" style="max-width:100%;margin-right: 15px">
   </a>
@@ -58,7 +60,15 @@ Languages and Tools
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30" style="max-width:100%;margin-right: 15px">
   </a>
   
+  <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="30" height="30" style="max-width:100%;margin-right: 15px">
+  </a>
+     
   <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="30" height="30" style="max-width:100%;margin-right: 15px">
+  </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://heroku.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="30" height="30" style="max-width:100%;margin-right: 15px">
   </a>
 </p>

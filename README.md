@@ -1,6 +1,5 @@
 <h2>MohammadAli Karimi (MaK)</h2>
-<h3>Web Developer | <img align="center"
-    src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/makarimi76&style=for-the-badge"></h3>
+<h3>Web Developer</h3>
 In the beginning there was nothing. A canvas of seemingly endless white.
 
 Your vision - the masterpiece. Your hands - the tools. What would you make?
@@ -89,3 +88,6 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=makarimi76&repo=react-navigation&theme=dracula" />
 </a> -->
+
+<img align="right"
+  src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/makarimi76&style=for-the-badge">

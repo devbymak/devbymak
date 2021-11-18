@@ -26,7 +26,7 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
   <a target="_blank" href="https://www.w3schools.com/css/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
       height="45" /></a>
-    <a target="_blank" href="https://webpack.js.org/"><img
+  <a target="_blank" href="https://webpack.js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack"
       width="45" height="45" /></a>
   <a target="_blank" href="https://reactjs.org/"><img
@@ -60,8 +60,8 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
   <a target="_blank" href="https://d3js.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS"
-      width="45" height="45" /></a>
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS" width="45"
+      height="45" /></a>
   <a target="_blank" href="https://www.mongodb.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongoDB" width="45" height="45" /></a>
@@ -77,10 +77,11 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
 
 <details>
   <summary>📈 Click for GitHub Stats</summary>
-  <img alt="Top Language" align="center" width="30%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarimi76&langs_count=4&theme=dracula" />
-  <img alt="GitHub Stats" align="top" width="62%"
+  <br></br>
+  <img alt="GitHub Stats" align="top" width="67%"
     src="https://github-readme-stats.vercel.app/api?username=makarimi76&theme=dracula" />
+  <img alt="Top Language" align="center" width="32.5%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarimi76&langs_count=4&theme=dracula" />
 </details>
 
 <!-- 

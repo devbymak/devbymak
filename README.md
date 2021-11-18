@@ -78,7 +78,7 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
 <details>
   <summary>📈 Click for GitHub Stats</summary>
   <br></br>
-  <img alt="GitHub Stats" align="top" width="66.5%"
+  <img alt="GitHub Stats" align="top" width="67%"
     src="https://github-readme-stats.vercel.app/api?username=makarimi76&theme=dracula" />
   <img alt="Top Language" align="center" width="32.5%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarimi76&langs_count=4&theme=dracula" />

@@ -1,5 +1,9 @@
-<h2>MohammadAli Karimi (MaK)</h2>
-<h3>Web Developer</h3>
+<!-- https://github.com/makarimi76/ -->
+<!-- April 16, 2021 -->
+<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
+
+<h2><samp>MohammadAli Karimi (MaK)</samp></h2>
+<h3><samp>&lt; Web Developer /&gt;</samp></h3>
 In the beginning there was nothing. A canvas of seemingly endless white.
 
 Your vision - the masterpiece. Your hands - the tools. What would you make?
@@ -83,11 +87,10 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarimi76&langs_count=4&theme=dracula" />
 </details>
 
-<!-- 
 <a href="https://github.com/makarimi76/react-navigation" target="_blank">
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=makarimi76&repo=react-navigation&theme=dracula" />
-</a> -->
+</a>
 
 <img align="right"
   src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/makarimi76&style=for-the-badge">

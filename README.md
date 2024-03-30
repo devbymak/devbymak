@@ -147,20 +147,19 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
 <details>
   <summary>📈 Click for GitHub Stats</summary>
   <br></br>
-  <img alt="GitHub Stats" align="top" width="67%"
+  <img alt="Top Language" align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarimi76&langs_count=3&theme=dracula" />
+  <img alt="GitHub Stats" align="top"
     src="https://github-readme-stats.vercel.app/api?username=makarimi76&theme=dracula" />
-  <img alt="Top Language" align="center" width="32.5%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarimi76&langs_count=4&theme=dracula" />
 </details>
 
 <a href="https://github.com/rishuinfinity/InternetSpeedMonitor" target="_blank">
-  <img align="center" height="100%" width="100%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rishuinfinity&repo=InternetSpeedMonitor&theme=dracula" />
+  <img alt="InternetSpeedMonitor" align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=rishuinfinity&repo=InternetSpeedMonitor&description_lines_count=2&theme=dracula" />
 </a>
-<br></br>
 <a href="https://github.com/makarimi76/react-navigation" target="_blank">
-  <img align="center" height="100%" width="100%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=makarimi76&repo=react-navigation&theme=dracula" />
+  <img alt="react-navigation" align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=makarimi76&repo=react-navigation&description_lines_count=2&theme=dracula" />
 </a>
 
 <h2></h2>

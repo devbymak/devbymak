@@ -154,12 +154,12 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
 </details>
 
 <a href="https://github.com/rishuinfinity/InternetSpeedMonitor" target="_blank">
-  <img align="center"
+  <img align="center" height="100%" width="100%"
     src="https://github-readme-stats.vercel.app/api/pin/?username=rishuinfinity&repo=InternetSpeedMonitor&theme=dracula" />
 </a>
-
+<br></br>
 <a href="https://github.com/makarimi76/react-navigation" target="_blank">
-  <img align="center"
+  <img align="center" height="100%" width="100%"
     src="https://github-readme-stats.vercel.app/api/pin/?username=makarimi76&repo=react-navigation&theme=dracula" />
 </a>
 

@@ -133,10 +133,13 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
       alt="Cloudflare" width="45" height="45" /></a>
   <a target="_blank" href="https://vercel.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"
-      alt="Vercel" width="45" height="45" /></a>
+      alt="Vercel" width="40" height="40" /></a>
   <a target="_blank" href="https://heroku.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg"
-      alt="heroku" width="45" height="45" /></a>
+      alt="heroku" width="40" height="40" /></a>
+  <a target="_blank" href="https://digitalocean.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg"
+      alt="DigitalOcean" width="50" height="50" /></a>
 </p>
 
 <h2></h2>

@@ -55,7 +55,10 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
       alt="NextJS" width="45" height="45" /></a>
   <a target="_blank" href="https://veujs.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-      alt="NextJS" width="45" height="45" /></a>
+      alt="VeuJS" width="45" height="45" /></a>
+  <a target="_blank" href="https://electronjs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+      alt="ElectronJS" width="45" height="45" /></a>
   <a target="_blank" href="https://threejs.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"
       alt="ThreeJS" width="45" height="45" /></a>
@@ -107,14 +110,26 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
   <a target="_blank" href="https://www.microsoft.com/en-us/sql-server"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
       alt="SQL Server" width="45" height="45" /></a>
+  <a target="_blank" href="https://redis.io"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"
+      alt="Redis" width="45" height="45" /></a>
+  <a target="_blank" href="https://rabbitmq.com"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+      alt="RabbitMQ" width="45" height="45" /></a>
   <a target="_blank" href="https://postman.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://gnu.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45"
       height="45" /></a>
   <a target="_blank" href="https://git-scm.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
       height="45" /></a>
+  <a target="_blank" href="https://cloudflare.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg"
+      alt="Cloudflare" width="45" height="45" /></a>
   <a target="_blank" href="https://vercel.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"
       alt="Vercel" width="45" height="45" /></a>
   <a target="_blank" href="https://heroku.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg"

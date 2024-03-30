@@ -158,4 +158,4 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
 <h2></h2>
 
 <img align="right"
-  src="https://vbr.nathanchung.dev/badge?page_id=https://github.com/makarimi76&style=for-the-badge">
+  src="https://vbr.nathanchung.dev/badge?page_id=https://github.com/makarimi76&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false">

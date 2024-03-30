@@ -114,7 +114,7 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"
       alt="Docker" width="45" height="45" /></a>
   <a target="_blank" href="https://redis.io"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-origina.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
       alt="Redis" width="45" height="45" /></a>
   <a target="_blank" href="https://rabbitmq.com"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"

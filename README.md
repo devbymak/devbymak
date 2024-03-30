@@ -69,7 +69,7 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
       src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="45"
       height="45" /></a>
   <a target="_blank" href="https://tailwindcss.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
       alt="TailwindCSS" width="45" height="45" /></a>
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"

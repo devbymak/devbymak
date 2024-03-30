@@ -110,11 +110,14 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
   <a target="_blank" href="https://www.microsoft.com/en-us/sql-server"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
       alt="SQL Server" width="45" height="45" /></a>
+  <a target="_blank" href="https://docker.com"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"
+      alt="Docker" width="45" height="45" /></a>
   <a target="_blank" href="https://redis.io"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-origina.svg"
       alt="Redis" width="45" height="45" /></a>
   <a target="_blank" href="https://rabbitmq.com"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"
       alt="RabbitMQ" width="45" height="45" /></a>
   <a target="_blank" href="https://postman.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="45"
@@ -155,4 +158,4 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
 <h2></h2>
 
 <img align="right"
-  src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/makarimi76&style=for-the-badge">
+  src="https://vbr.nathanchung.dev/badge?page_id=https://github.com/makarimi76&style=for-the-badge">

@@ -153,6 +153,7 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
     src="https://github-readme-stats.vercel.app/api?username=makarimi76&theme=dracula" />
 </details>
 
+<!-- 
 <a href="https://github.com/rishuinfinity/InternetSpeedMonitor" target="_blank">
   <img alt="InternetSpeedMonitor" align="center"
     src="https://github-readme-stats.vercel.app/api/pin/?username=rishuinfinity&repo=InternetSpeedMonitor&description_lines_count=2&theme=dracula" />
@@ -163,6 +164,7 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
 </a>
 
 <h2></h2>
+-->
 
 <img align="right"
   src="https://vbr.nathanchung.dev/badge?page_id=https://github.com/makarimi76&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false">

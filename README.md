@@ -29,12 +29,18 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
   <a target="_blank" href="https://www.typescriptlang.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="TypeScript" width="45" height="45" /></a>
+  <a target="_blank" href="https://go.dev/"><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
+    alt="GoLang" width="45" height="45" /></a>
   <a target="_blank" href="https://www.w3schools.com/html/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
       width="45" height="45" /></a>
   <a target="_blank" href="https://www.w3schools.com/css/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
       height="45" /></a>
+  <a target="_blank" href="https://vitejs.dev/"><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="ViteJS"
+    width="45" height="45" /></a>
   <a target="_blank" href="https://webpack.js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack"
       width="45" height="45" /></a>
@@ -42,16 +48,22 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
       width="45" height="45" /></a>
   <a target="_blank" href="https://nextjs.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
       alt="NextJS" width="45" height="45" /></a>
+  <a target="_blank" href="https://veujs.org/"><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+    alt="NextJS" width="45" height="45" /></a>
+  <a target="_blank" href="https://threejs.org/"><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"
+    alt="ThreeJS" width="45" height="45" /></a>
   <a target="_blank" href="https://redux.js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
       width="45" height="45" /></a>
   <a target="_blank" href="https://nodejs.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Express"
-      width="45" height="45" /></a>
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS"
+       width="45" height="45" /></a>
   <a target="_blank" href="https://expressjs.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
       alt="Express" width="45" height="45" /></a>
   <a target="_blank" href="https://socket.io/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"
@@ -92,6 +104,9 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
   <a target="_blank" href="https://git-scm.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
       height="45" /></a>
+  <a target="_blank" href="https://vercel.com/"><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg"
+    alt="Vercel" width="45" height="45" /></a>
   <a target="_blank" href="https://heroku.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg"
       alt="heroku" width="45" height="45" /></a>

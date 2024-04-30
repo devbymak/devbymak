@@ -146,9 +146,9 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
   <summary>📈 Click for GitHub Stats</summary>
   <br></br>
   <img alt="Top Language" align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarimi76&langs_count=3&theme=dracula" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbymak&langs_count=3&theme=dracula" />
   <img alt="GitHub Stats" align="top"
-    src="https://github-readme-stats.vercel.app/api?username=makarimi76&theme=dracula" />
+    src="https://github-readme-stats.vercel.app/api?username=devbymak&theme=dracula" />
 </details>
 
 <!-- 
@@ -158,7 +158,7 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
 </a>
 <a href="https://github.com/makarimi76/react-navigation" target="_blank">
   <img alt="react-navigation" align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=makarimi76&repo=react-navigation&description_lines_count=2&theme=dracula" />
+    src="https://github-readme-stats.vercel.app/api/pin/?username=devbymak&repo=react-navigation&description_lines_count=2&theme=dracula" />
 </a>
 
 <h2></h2>

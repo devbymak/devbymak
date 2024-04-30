@@ -7,7 +7,7 @@
 <a target="_blank" href="https://github.com/makarimi76">
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-line.svg"
     alt="MohammadAli Karimi" width="50" height="50" /></a>
-In the beginning there was nothing. A canvas of seemingly endless white.
+In the beginning there was nothing. A view of seemingly endless white.
 
 Your vision - the masterpiece. Your hands - the tools. What would you make?
 

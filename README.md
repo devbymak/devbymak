@@ -16,8 +16,6 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
 <p align="center">
   <a href="https://www.linkedin.com/in/mak-dev/"><img
       src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/makarimi76/"></a>
-  <a href="mailto:ma.karimi76@gmail.com"><img
-      src="https://img.shields.io/badge/-Gmail-f4f4f4?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:ma.karimi76@gmail.com/"></a>
 </p>
 
 
@@ -167,4 +165,4 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
 -->
 
 <img align="right"
-  src="https://vbr.nathanchung.dev/badge?page_id=https://github.com/makarimi76&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false">
+  src="https://cdn.rawgit.com/standard/standard/master/badge.svg">

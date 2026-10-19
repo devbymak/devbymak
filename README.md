@@ -1,26 +1,168 @@
-# Mohammadali Karimi
+<!-- https://github.com/devbymak/ -->
+<!-- April 16, 2021 -->
+<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-Creator and software engineer building thoughtful developer tools, AI products, and native macOS utilities.
+<h2><samp>MohammadAli Karimi</samp></h2>
+<h3><samp>&lt; Creator /&gt;</samp></h3>
+<a target="_blank" href="https://github.com/makarimi76">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-line.svg"
+    alt="MohammadAli Karimi" width="50" height="50" /></a>
+In the beginning there was nothing. A view of seemingly endless white.
 
-I’m currently working on product ideas at [PlaygrndLabs](https://github.com/PlaygrndLabs), and I also contribute across [WebSims](https://github.com/WebSims) and [Cheyyn](https://github.com/cheyyn).
+Your vision - the masterpiece. Your hands - the tools. What would you make?
 
-## What I’m building
-
-- [**Nocheh**](https://github.com/PlaygrndLabs/nocheh) — an AI-powered service and operations dashboard built with TypeScript, React, GraphQL, PostgreSQL, Inngest, Tailwind CSS, and Playwright.
-- [**Chef**](https://github.com/PlaygrndLabs/chef) — an opinionated AI app-development workflow with isolated feature sessions, worktrees, and live previews; built with TypeScript, Cloudflare Workers, Wrangler, Vitest, and pnpm.
-- [**Baadgir**](https://github.com/devbymak/baadgir) — a native macOS menu-bar utility for Apple silicon temperature monitoring and fan control.
-- [**Clipdan**](https://github.com/devbymak/clipdan) and [**Jaryan**](https://github.com/devbymak/jaryan) — small, focused macOS utilities for clipboard management and network monitoring.
-
-## Stack
-
-`TypeScript` · `JavaScript` · `Swift` · `Node.js` · `React` · `Tailwind CSS` · `GraphQL` · `PostgreSQL` · `Cloudflare Workers` · `Astro` · `Vitest` · `Playwright`
-
-## Find me
-
-- [GitHub](https://github.com/devbymak)
-- [LinkedIn](https://www.linkedin.com/in/mak-dev/)
-- [PlaygrndLabs](https://playgrndlabs.com/)
+<h2></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devbymak&show_icons=true&hide_title=true&hide_border=true" alt="GitHub stats for Mohammadali Karimi" />
+  <a href="https://www.linkedin.com/in/mak-dev/"><img
+      src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/makarimi76/"></a>
 </p>
+
+
+**Languages and Tools:**
+<p align="center">
+  <a target="_blank" href="https://javascript.info/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+      alt="JavaScript" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.typescriptlang.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="TypeScript" width="45" height="45" /></a>
+  <a target="_blank" href="https://go.dev/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
+      alt="GoLang" width="45" height="45" /></a>
+  <a target="_blank" href="https://java.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="Java" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.w3schools.com/html/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://www.w3schools.com/css/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://vitejs.dev/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="ViteJS"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://webpack.js.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://reactjs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://nextjs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+      alt="NextJS" width="45" height="45" /></a>
+  <a target="_blank" href="https://veujs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+      alt="VeuJS" width="45" height="45" /></a>
+  <a target="_blank" href="https://electronjs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+      alt="ElectronJS" width="45" height="45" /></a>
+  <a target="_blank" href="https://threejs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"
+      alt="ThreeJS" width="45" height="45" /></a>
+  <a target="_blank" href="https://redux.js.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://nodejs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://expressjs.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+      alt="Express" width="45" height="45" /></a>
+  <a target="_blank" href="https://socket.io/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"
+      alt="Socket.io" width="40" height="40" /></a>
+  <a target="_blank" href="https://jquery.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+      alt="jQuery" width="45" height="45" /></a>
+  <a target="_blank" href="https://sass-lang.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://material-ui.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+      alt="Material-UI" width="45" height="45" /></a>
+  <a target="_blank" href="https://ant.design/"><img
+      src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://tailwindcss.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+      alt="TailwindCSS" width="45" height="45" /></a>
+  <a target="_blank" href="https://getbootstrap.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="Bootstrap" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.figma.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://d3js.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://www.mongodb.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+      alt="mongoDB" width="45" height="45" /></a>
+  <a target="_blank" href="https://postgresql.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgreSQL" width="45" height="45" /></a>
+  <a target="_blank" href="https://firebase.google.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"
+      alt="Firebase" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.microsoft.com/en-us/sql-server"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+      alt="SQL Server" width="45" height="45" /></a>
+  <a target="_blank" href="https://docker.com"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"
+      alt="Docker" width="45" height="45" /></a>
+  <a target="_blank" href="https://redis.io"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+      alt="Redis" width="45" height="45" /></a>
+  <a target="_blank" href="https://rabbitmq.com"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"
+      alt="RabbitMQ" width="45" height="45" /></a>
+  <a target="_blank" href="https://postman.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://gnu.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://git-scm.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://cloudflare.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg"
+      alt="Cloudflare" width="45" height="45" /></a>
+  <a target="_blank" href="https://vercel.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"
+      alt="Vercel" width="40" height="40" /></a>
+  <a target="_blank" href="https://heroku.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg"
+      alt="heroku" width="40" height="40" /></a>
+  <a target="_blank" href="https://digitalocean.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg"
+      alt="DigitalOcean" width="50" height="50" /></a>
+</p>
+
+<h2></h2>
+
+<details>
+  <summary>📈 Click for GitHub Stats</summary>
+  <br></br>
+  <img alt="Top Language" align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbymak&langs_count=3&theme=dracula" />
+  <img alt="GitHub Stats" align="top"
+    src="https://github-readme-stats.vercel.app/api?username=devbymak&theme=dracula" />
+</details>
+
+<!-- 
+<a href="https://github.com/rishuinfinity/InternetSpeedMonitor" target="_blank">
+  <img alt="InternetSpeedMonitor" align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=rishuinfinity&repo=InternetSpeedMonitor&description_lines_count=2&theme=dracula" />
+</a>
+<a href="https://github.com/makarimi76/react-navigation" target="_blank">
+  <img alt="react-navigation" align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=devbymak&repo=react-navigation&description_lines_count=2&theme=dracula" />
+</a>
+
+<h2></h2>
+-->
+
+<img align="right"
+  src="https://cdn.rawgit.com/standard/standard/master/badge.svg">

@@ -81,9 +81,6 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
   <a target="_blank" href="https://material-ui.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
       alt="Material-UI" width="45" height="45" /></a>
-  <a target="_blank" href="https://ant.design/"><img
-      src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="45"
-      height="45" /></a>
   <a target="_blank" href="https://tailwindcss.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
       alt="TailwindCSS" width="45" height="45" /></a>
@@ -138,6 +135,32 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
   <a target="_blank" href="https://digitalocean.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg"
       alt="DigitalOcean" width="50" height="50" /></a>
+  <a target="_blank" href="https://www.swift.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://astro.build/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://playwright.dev/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://vitest.dev/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://pnpm.io/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" alt="pnpm" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://graphql.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://www.langchain.com/langgraph"><img
+      src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" height="28" /></a>
+  <a target="_blank" href="https://www.copilotkit.ai/"><img
+      src="https://img.shields.io/badge/CopilotKit-000000?style=flat-square" alt="CopilotKit" height="28" /></a>
+  <a target="_blank" href="https://modelcontextprotocol.io/"><img
+      src="https://img.shields.io/badge/Model_Context_Protocol-5A45FF?style=flat-square" alt="Model Context Protocol" height="28" /></a>
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square" alt="AI Agents" height="28" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="Retrieval-Augmented Generation" height="28" />
 </p>
 
 <h2></h2>

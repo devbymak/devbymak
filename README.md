@@ -153,6 +153,7 @@ Your vision - the masterpiece. Your hands - the tools. What would you make?
   <a target="_blank" href="https://graphql.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="45"
       height="45" /></a>
+  <br /><br />
   <a target="_blank" href="https://workers.cloudflare.com/"><img
       src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square" alt="Cloudflare Workers" height="28" /></a>
   <a target="_blank" href="https://www.inngest.com/"><img
